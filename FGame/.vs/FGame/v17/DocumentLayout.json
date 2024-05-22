@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\controller\\gameboardlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\controller\\gameboardlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\view\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\view\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\model\\blocks\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\model\\blocks\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\model\\blocks\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\model\\blocks\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\model\\blocks\\unknowblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\model\\blocks\\unknowblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\model\\blocks\\knowblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\model\\blocks\\knowblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|c:\\users\\user\\documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\fgame2\\fgame\\fgame\\controller\\pagelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4C7C77-6199-423A-B17C-26E98A19E795}|FGame\\FGame.csproj|solutionrelative:fgame\\controller\\pagelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameBoardLogic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Controller\\GameBoardLogic.cs",
+              "RelativeDocumentMoniker": "FGame\\Controller\\GameBoardLogic.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Controller\\GameBoardLogic.cs",
+              "RelativeToolTip": "FGame\\Controller\\GameBoardLogic.cs",
+              "ViewState": "AQIAAAcAAABgZmZmZmYkwB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:06:34.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBlock.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\IBlock.cs",
+              "RelativeDocumentMoniker": "FGame\\Model\\Blocks\\IBlock.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\IBlock.cs",
+              "RelativeToolTip": "FGame\\Model\\Blocks\\IBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:50:07.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnKnowBlock.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\UnKnowBlock.cs",
+              "RelativeDocumentMoniker": "FGame\\Model\\Blocks\\UnKnowBlock.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\UnKnowBlock.cs",
+              "RelativeToolTip": "FGame\\Model\\Blocks\\UnKnowBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:34:37.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KnowBlock.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\KnowBlock.cs",
+              "RelativeDocumentMoniker": "FGame\\Model\\Blocks\\KnowBlock.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\KnowBlock.cs",
+              "RelativeToolTip": "FGame\\Model\\Blocks\\KnowBlock.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:57:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\Block.cs",
+              "RelativeDocumentMoniker": "FGame\\Model\\Blocks\\Block.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Model\\Blocks\\Block.cs",
+              "RelativeToolTip": "FGame\\Model\\Blocks\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:53:13.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drawer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\View\\Drawer.cs",
+              "RelativeDocumentMoniker": "FGame\\View\\Drawer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\View\\Drawer.cs",
+              "RelativeToolTip": "FGame\\View\\Drawer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:23:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageLogic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Controller\\PageLogic.cs",
+              "RelativeDocumentMoniker": "FGame\\Controller\\PageLogic.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Controller\\PageLogic.cs",
+              "RelativeToolTip": "FGame\\Controller\\PageLogic.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:25:39.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Game1.cs",
+              "RelativeDocumentMoniker": "FGame\\Game1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\\u0432\u0441\\\u0438\u0433\u0440\u0430\\FGame2\\FGame\\FGame\\Game1.cs",
+              "RelativeToolTip": "FGame\\Game1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:08:20.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

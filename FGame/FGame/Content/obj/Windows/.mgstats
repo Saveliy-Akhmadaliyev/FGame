@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/user/Documents/вс/игра/FGame2/FGame/FGame/Content/knowZone.png","C:/Users/user/Documents/вс/игра/FGame2/FGame/FGame/Content/bin/Windows/knowZone.xnb","TextureProcessor","Texture2DContent",196,1109,0,530796
+"C:/Users/user/Documents/вс/игра/FGame2/FGame/FGame/Content/unKnowZone.png","C:/Users/user/Documents/вс/игра/FGame2/FGame/FGame/Content/bin/Windows/unKnowZone.xnb","TextureProcessor","Texture2DContent",195,1109,0,1839604
+"C:/Users/user/Documents/вс/игра/FGame2/FGame/FGame/Content/wallZone.png","C:/Users/user/Documents/вс/игра/FGame2/FGame/FGame/Content/bin/Windows/wallZone.xnb","TextureProcessor","Texture2DContent",191,1109,0,0196302
